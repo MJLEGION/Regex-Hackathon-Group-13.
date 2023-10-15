@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alumni Hub</title>
+</head>
+<body>
+    <!--Home page-->
+    <div id="--Home">
+        <h1> Welcome to Alumni Hub</h1>
+        <p>This website aims to connect our university's alumni and inform them about u coming events.</p>
+    </div>
+    <!--Event page-->
+    <div id="events">
+        <h2>professional Development</h2>
+        <!--Events for professional -->
+        <p>events</p>
+        <p>events</p>
+
+        <h2>Campus Events</h2>
+        <!--Events-->
+        <p>events </p>
+        <p>events </p>
+    </div>
+    <div id="about page">
+        
+    </div>
+</body>
+</html>
